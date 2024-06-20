@@ -1,6 +1,6 @@
 # contratos inteligentes
 
-Projeto Web integrado com a API do Twitter junto com a carteira digital Metamak
+Projeto Web integrado Nestjs com a API do Twitter junto com a carteira digital Metamak e Solidity
 
 ## How to Run
 
