@@ -1,6 +1,6 @@
-# smart-contract
+# contratos inteligentes
 
-Our CrypTwitter web3 smart contract. Project from Web3 Week
+Projeto Web integrado com a API do Twitter junto com a carteira digital Metamak
 
 ## How to Run
 
